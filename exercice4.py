@@ -74,8 +74,8 @@ class LivreEmpruntable(Livre):
 
 
 # Exemple d'utilisation
-livre1 = Livre("1984", "George Orwell")
-livre2 = LivreEmpruntable("Le Petit Prince", "Antoine de Saint-Exupéry")
+livre1 = Livre("Pascal OP, le retour", "Pascal pendant qu'il était en zonzon")
+livre2 = LivreEmpruntable("Le Petit Prince Tonia", "Antoine de Saint-OP")
 
 print(livre1)  # Utilise __str__
 print(livre2)
